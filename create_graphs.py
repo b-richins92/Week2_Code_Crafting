@@ -32,7 +32,7 @@ def create_approval_dots(df: pd.DataFrame, color: str, x_column: str, y_column: 
     Parameters:
     df (pd.Dataframe): Either approval or disapproval Dataframe
     color (str): Any hex color code
-    x_column (str: Date column name from Dataframe
+    x_column (str): Date column name from Dataframe
     y_column (str): Individual poll value column name
 
     Returns:
